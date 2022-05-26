@@ -95,7 +95,7 @@ pageClass: routes
 
 ### 免费游戏
 
-<Route author="Zyx-A nczitzk" example="/epicgames/freegames" path="/epicgames/freegames/:locale?/:country?" :paramsDesc="['地区，默认为 en_US', '国家，默认为 en_US']"/>
+<Route author="Zyx-A nczitzk KotaHv" example="/epicgames/freegames" path="/epicgames/freegames/:locale?/:country?" :paramsDesc="['地区，默认为 en_US', '国家，默认为 en_US']"/>
 
 ## Fate Grand Order
 
@@ -587,9 +587,9 @@ Example：`https://www.iyingdi.com/tz/people/55547` ，id 是 `55547`
 
 游戏 id
 
-| 崩坏三 | 原神 | 崩坏二 | 未定事件簿 | 星穹铁道 |
-| --- | -- | --- | ----- | ---- |
-| 1   | 2  | 3   | 4     | 6    |
+| 崩坏三 | 原神 | 崩坏二 | 未定事件簿 | 星穹铁道 | 绝区零 |
+| --- | -- | --- | ----- | ---- | --- |
+| 1   | 2  | 3   | 4     | 6    | 8   |
 
 公告类型
 
